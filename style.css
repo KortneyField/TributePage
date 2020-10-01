@@ -1,0 +1,71 @@
+body{
+  
+}
+
+#main {
+  font-family: system-ui;
+  background-color: lightgrey;
+  color: white;
+  padding: 15px;
+  margin: 5px;
+  display: grid;
+  place-items: center;
+  border-radius: 25px;
+}
+
+h1{
+  font-size: 60px;
+  margin: 0 auto;
+  
+}
+
+#title{
+  display: grid;
+  text-align: center; 
+  color: black; 
+}
+
+#img-div{
+  width: 80%;
+  height: auto;
+  border: 15px white;
+  padding: 10px;
+  margin: 20px;
+  background-color: white;
+  border-radius: 25px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  border-radius: 25px;
+}
+
+.p1 {
+  color: black;
+  font-size: 11px;
+  text-align: center;
+}
+
+
+#tribute-info {
+    width: 70%;
+    color: black;
+}
+
+li{
+  padding: 8px 0px
+}
+
+span{
+  font-weight:bold
+}
+
+.quote{ 
+  padding: 30px;
+}
+
+.lastRemarks{
+  text-align:center;
+  color:black;
+}
