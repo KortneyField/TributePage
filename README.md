@@ -1,8 +1,8 @@
-#Tribute Page :+1: 
+# Tribute Page :+1: 
 
-##Languages: 
--HTML
--CSS
+## Languages: 
+- HTML
+- CSS
 
 Worked through FreeCodeCamp Responsive Web Design Course to learn web development skills. 
 Project #1 out 5: Tribute Page 
